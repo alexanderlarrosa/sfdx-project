@@ -50,11 +50,6 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-                    <name>animations</name>
-                    <value>true</value>
-                </componentInstanceProperties>
-                <componentName>PictureGalleryCard</componentName>
-                <identifier>c_PictureGalleryCard1</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
